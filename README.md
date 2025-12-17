@@ -1,2 +1,3 @@
 # Python-Data-Analyst-Project
-Interactive Power BI dashboard for e-commerce sales and performance analysis.
+
+Performed data cleaning,tranformation, and analysis on multiple project and employee datasets using Python (Pandas,NumPy) to generate accurate insights and support performance evaluation.
